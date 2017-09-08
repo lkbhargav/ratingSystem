@@ -8,7 +8,7 @@ var fs = "https://dl.dropboxusercontent.com/u/77110529/ratingSystem/fullStar.png
 
 var hs = "https://dl.dropboxusercontent.com/u/77110529/ratingSystem/halfStar.png";
 
-// Function to display stars as per user mouseovers and clicks
+// Function to display stars as per user mouseover and clicks
 function displayStars(num, point, width, height, idname, ratid, ratidin) {
     
     var imag = "<span>";
